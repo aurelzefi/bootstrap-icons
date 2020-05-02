@@ -1,6 +1,6 @@
 {
     "name": "aurelzefi/bootstrap-icons",
-    "description": "A package to easily use bootstrap icons in your project.",
+    "description": "A package to easily use bootstrap icons in your Laravel project.",
     "license": "MIT",
     "authors": [
         {

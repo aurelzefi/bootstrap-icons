@@ -8,7 +8,11 @@ A package to easily use bootstrap icons in your Laravel project.
 
 ## Installation
 
-Add the package to your repositories and then require it:
+Clone this repo, add the package to your repositories and then require it:
+
+```bash
+git clone git@github.com:aurelzefi/bootstrap-icons.git
+```
 
 ```json
     "repositories": [
