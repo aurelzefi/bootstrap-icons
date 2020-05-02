@@ -1,14 +1,15 @@
 # Bootstrap Icons
-A package to easily use bootstrap icons in your project.
+
+A package to easily use bootstrap icons in your Laravel project.
 
 ## Requirements
-
 - PHP 7.4 or higher
 - Laravel 7.0 or higher
 
 ## Installation
 
-Add the package to your repositories and the require it:
+Add the package to your repositories and then require it:
+
 ```json
     "repositories": [
         {
