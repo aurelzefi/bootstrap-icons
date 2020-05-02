@@ -1,4 +1,4 @@
-<svg class="bi bi-brightness-low" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<svg class="bi bi-brightness-low {{ $class ?? null }}" width="{{ $width ?? '1em' }}" height="{{ $height ?? '1em' }}" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8z" clip-rule="evenodd"/>
   <circle cx="8" cy="2.5" r=".5"/>
   <circle cx="8" cy="13.5" r=".5"/>
