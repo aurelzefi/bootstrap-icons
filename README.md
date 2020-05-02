@@ -36,4 +36,4 @@ You can also use classes and set the width and height HTML attributes on the SVG
 <x-bi-alarm-fill class="text-primary" width="2em" height="2em"/>
 ```
 
-For a full list list of the available icons, you can go to the official Bootstrap documentation https://icons.getbootstrap.com.
+For a full list list of the available icons, visit the official Bootstrap documentation https://icons.getbootstrap.com.
