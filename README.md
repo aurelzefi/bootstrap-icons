@@ -30,7 +30,7 @@ composer require aurelzefi/bootstrap-icons
 
 ## Usage
 
-Icons can be used a self-closing Blade component which will be compiled to SVG icons:
+Icons can be used as a self-closing Blade component which will be compiled to SVG icons:
 
 ```blade
 <x-bi-alarm-fill/>
